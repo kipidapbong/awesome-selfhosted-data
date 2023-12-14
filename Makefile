@@ -1,4 +1,4 @@
-# requirements: git bash make python3-pip python3-venv
+## requirements: git bash make python3-pip python3-venv
 SHELL := /bin/bash
 MARKDOWN_REPOSITORY = awesome-selfhosted/awesome-selfhosted
 HTML_REPOSITORY = awesome-selfhosted/awesome-selfhosted-html
